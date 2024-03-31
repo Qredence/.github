@@ -12,20 +12,3 @@ Dive into our Contribution Guidelines to learn how you can be a part of this exc
 Your Hub for Design & AI Resources 👩‍💻
 Qredence offers comprehensive resources designed to help you navigate the intersection of UI design, production ready website  and AI:
 
-QreamUI Website
-: Explore our cutting-edge LLM applications and front-end components.
-: Seamlessly integrate our LLMs into your  projects.
-Component Library
-: Access a rich library of pre-built UI components ready for your LLM applications.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
