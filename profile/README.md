@@ -1,3 +1,6 @@
+
+![banner](https://github.com/user-attachments/assets/f4474e55-dbfa-471d-8af1-bedf8f1337b2)
+
 Qredence solutions seamlessly integrates into your existing workflows, bringing together specialized AI agents that collaborate to solve complex problems, automate tedious tasks, and provide invaluable insights. Whether you're a small startup or a large enterprise, Qredence adapts to your unique needs, scaling effortlessly as your business grows.
 
 Our platform leverages cutting-edge AI technology to create a synergy between human expertise and artificial intelligence. From data analysis and customer support to strategic planning and creative tasks, Qredence empowers your team to achieve more, faster.
