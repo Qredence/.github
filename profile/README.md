@@ -1,4 +1,5 @@
-![cover_git](https://github.com/user-attachments/assets/37b631f5-088b-4d12-8271-8b462e742fca)
+
+<img width="800" height="244" alt="afleet-preview" src="https://github.com/user-attachments/assets/6e475ab9-607d-4f91-aafd-9a0d5b2ab3ac" />
 
 Qredence solutions seamlessly integrates into your existing workflows, bringing together specialized AI agents that collaborate to solve complex problems, automate tedious tasks, and provide invaluable insights. Whether you're a small startup or a large enterprise, Qredence adapts to your unique needs, scaling effortlessly as your business grows.
 
